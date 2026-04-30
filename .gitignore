@@ -1,0 +1,17 @@
+﻿node_modules/
+frontend/node_modules/
+frontend/dist/
+backend/.env
+frontend/.env
+backend/__pycache__/
+frontend/.vite/
+*.db
+*.db-journal
+.pytest_cache/
+*.pyc
+*.pyo
+backend/venv/
+backend/.venv/
+.vscode/
+.idea/
+.DS_Store
